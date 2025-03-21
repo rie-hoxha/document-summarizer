@@ -1,6 +1,6 @@
 # Document Summarizer
 
-This project is a REACT web application that summarizes documents using APY API. It allows users to input text documents and receive concise summaries, making it easier to digest large amounts of information quickly.
+This project is a REACT web application that summarizes documents using ApyHub API. It allows users to input text documents and receive concise summaries, making it easier to digest large amounts of information quickly.
 
 ## Features
 - Upload documents in various formats (example: .txt, .pdf).
